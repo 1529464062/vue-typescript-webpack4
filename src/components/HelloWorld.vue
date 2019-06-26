@@ -4,6 +4,9 @@
     <h2>Essential Links</h2>
     <ul>
       <li>
+        <router-link to="/t">sdf</router-link>
+      </li>
+      <li>
         <a
           href="https://vuejs.org"
           target="_blank"
@@ -78,6 +81,10 @@
         >
           awesome-vue
         </a>
+      </li>
+      <li>
+
+        <img src="/static/img/1.png" alt="">
       </li>
     </ul>
   </div>
